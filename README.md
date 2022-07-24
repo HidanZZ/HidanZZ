@@ -5,9 +5,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ------------------------
 
 * 🌍  I'm based in morocco
-* ✉️  You can contact me at [aitdaoudelhoussein@gmail.com](mailto:aitdaoudelhoussein@gmail.com)
 * 🧠  I'm learning React / Godot
 * 🤝  I'm open to collaborating on games / webapps / apis
+* ✉️  You can contact me at [aitdaoudelhoussein@gmail.com](mailto:aitdaoudelhoussein@gmail.com)
 
 ### Skills
 
