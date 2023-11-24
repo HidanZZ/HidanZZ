@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in morocco
 * 🧠  I'm learning React / Godot
-* 🖥️  See my portfolio at [\> here <](http://aitdaoudelhoussein.tech)
+* 🖥️  See my portfolio at [\> here <]](https://hidanz.dev)
 * 🤖  Interested in machine learning
 * 🤝  I'm open to collaborating on games / webapps / apis
 * ✉️  You can contact me at [aitdaoudelhoussein@gmail.com](mailto:aitdaoudelhoussein@gmail.com)
